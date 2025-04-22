@@ -1,3 +1,4 @@
+this is a test done for digicoop during its recrutement process
 Let's create a small todo app with a **custom** component system!
 
 You will need to:
